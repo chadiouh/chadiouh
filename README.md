@@ -1,8 +1,7 @@
 ## Hi, I'm Chadi 👋
 
 
-🎓 I’m currently a new graduate in data analysis<br>💬 Continuously learning and expanding my expertise in data science<br>🤝 Seeking to collaborate with fellow data analysts/scientists on new projects<br><br><br>⚡ Goal : My ambition is to work on groundbreaking projects that have a lasting impact. I strive to push the boundaries of data analysis and data science, aiming to contribute to large-scale initiatives that drive real change. My goal is to be at the forefront of innovation, collaborating with top experts to solve complex challenges and make a meaningful difference.
-
+🎓 I’m currently a new graduate in data analysis<br>💬 Continuously learning and expanding my expertise in data science<br>🤝 Seeking to collaborate with fellow data analysts/scientists on new projects<br><br>
 <br>
 
 ## 💻 Tech Stack:
