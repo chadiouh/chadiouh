@@ -1,7 +1,7 @@
 ## Hi, I'm Chadi 👋
 
 
-🎓 I’m currently a new graduate in data analysis<br>💬 Continuously learning and expanding my expertise in data science<br>🤝 Seeking to collaborate with fellow data analysts/scientists on new projects<br><br>
+🎓 I’m currently a new graduate in data science<br>💬 Continuously learning and expanding my expertise in data science<br>🤝 Seeking to collaborate with fellow data analysts/scientists on new projects<br><br>
 <br>
 
 ## 💻 Tech Stack:
